@@ -1,0 +1,28 @@
+name: Dan Winters
+favicon: null
+layout_spectrum: 0.6153599822428077
+typography_spectrum: 0.5874862861819565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1687299672048539
+  lightness: 0.11915006977505982
+  saturation: 0.10368812666274607
+  rhythmicContrast: 0.6413031602278352
+purpose: []
